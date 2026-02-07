@@ -15,3 +15,5 @@
 6)Commitear cambios y pushear el resultado al repositorio remoto.
 
 7) Hacer un pull requests
+
+8) Sí lograste hacer el pull requests, pedir el certificado al final de la clase
