@@ -1,7 +1,14 @@
-Pokemones Iniciales Clásicos (Kanto)
+1- Pokemones Iniciales Clásicos (Kanto)
 Son los que empezaron todo en la primera generación.
 
 Bulbasaur (Planta/Veneno)
 Charmander (Fuego)
 Squirtle (Agua)
 Pikachu (Eléctrico)
+
+2- Legendarios y Singulares
+Pokémon únicos con un poder fuera de lo común.
+Mewtwo: El clon creado por científicos.
+Lugia: El guardián de los mares.
+Rayquaza: El dragón que vigila los cielos.
+Arceus: Considerado el "Dios" del mundo Pokémon.
