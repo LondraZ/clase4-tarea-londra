@@ -2,9 +2,9 @@
 
 # Objetivos:
 
-1)Crear una rama con tu nombre
+1)Forkear este repositorio
 
-2)Crear una carpeta cuyo nombre sera 'mi_nombre_git'
+2)Crear una carpeta cualquiera
 
 3)Recuperar el pikachu
 
@@ -13,3 +13,5 @@
 5)Escoger dos pokemones, presentes en el archivo hola.txt y colocarlo dentro de un archivo .txt, dentro de la carpeta creada en el paso 2
 
 6)Commitear cambios y pushear el resultado al repositorio remoto.
+
+7) Hacer un pull requests
